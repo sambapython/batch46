@@ -1,0 +1,26 @@
+2018-06-01 07:53:46,667-->>INFO==>information message
+2018-06-01 07:53:46,667-->>ERROR==>ERROR message
+2018-06-01 07:53:46,667-->>DEBUG==>DEBUG message
+2018-06-01 07:53:46,667-->>WARNING==>WARNING nessage
+2018-06-01 08:01:22,435-->>INFO==>program started
+2018-06-01 08:01:24,359-->>INFO==>Got the a value from the user
+2018-06-01 08:01:25,783-->>INFO==>Got the b value from the user
+2018-06-01 08:01:25,783-->>DEBUG==>before conversion a=12,b=34
+2018-06-01 08:01:25,783-->>INFO==>safely converted a
+2018-06-01 08:01:25,784-->>INFO==>safely converted b
+2018-06-01 08:01:25,784-->>DEBUG==>after conversion a=12.0,b=34.0
+2018-06-01 08:01:25,784-->>INFO==>Result calculation completed
+2018-06-01 08:01:25,784-->>DEBUG==>result=0.352941176471
+2018-06-01 08:01:25,784-->>INFO==>COMPLETED!!!
+2018-06-01 08:01:59,715-->>INFO==>program started
+2018-06-01 08:02:00,871-->>INFO==>Got the a value from the user
+2018-06-01 08:02:01,367-->>INFO==>Got the b value from the user
+2018-06-01 08:02:01,367-->>DEBUG==>before conversion a=12,b=0
+2018-06-01 08:02:01,367-->>INFO==>safely converted a
+2018-06-01 08:02:01,367-->>INFO==>safely converted b
+2018-06-01 08:02:01,368-->>DEBUG==>after conversion a=12.0,b=0.0
+2018-06-01 08:02:01,368-->>ERROR==>ERROR:float division by zero
+2018-06-01 08:02:01,368-->>ERROR==>Enter b value not equal to zero
+2018-06-01 08:02:01,368-->>INFO==>COMPLETED!!!
+2018-06-01 08:05:00,167-->>ERROR==>ERROR:float division by zero
+2018-06-01 08:05:00,167-->>ERROR==>Enter b value not equal to zero
